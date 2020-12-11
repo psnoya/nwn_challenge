@@ -2,7 +2,7 @@
 
 ![](./src/nwn.png)
 
-Welcome to the NWN challenge. This is a take-home retake of the midcourse exam.
+Welcome to the NWN challenge. This is a take-home challenge for the Christmas break.
 
 We want to see clean, DRY, well scoped and well tested code, a good Git strategy (small, well described commits that allow us to follow your workflow), good use of the included libraries and overall a standard that will allow us to determine your level of ambition and skill.
 
@@ -12,7 +12,7 @@ The lead (and only) developer that worked on this project, contracted a dangerou
 
 ![](./nwn_challenge.png)
 
-When loaded, the user should see "Top Headlines" and be allowed to search for news that interest her/him.
+Your challenge is to develop a feature that when the application is loaded, the user should see "Top Headlines" and be allowed to search for news that interest her/him.
 
 1. Make use of Cypress to test your application
 2. Use functional components

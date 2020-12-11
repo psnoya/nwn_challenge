@@ -2,13 +2,13 @@
 
 ![](./src/nwn.png)
 
-Welcome to the NWN challenge. This is a teke-home retake of the midcourse exam.
+Welcome to the NWN challenge. This is a take-home retake of the midcourse exam.
 
-We want to see clean, DRY, well scoped and well tested code, a good git strategy (small, well described commits that allow us to follow your workflow), good use of the included libraries and overall a standard that will allow us to determine your level of ambition and skill.
+We want to see clean, DRY, well scoped and well tested code, a good Git strategy (small, well described commits that allow us to follow your workflow), good use of the included libraries and overall a standard that will allow us to determine your level of ambition and skill.
 
 **Your task is to finish developing this small app that is supposed use the News API (newsapi.org) and display the latest headlines from various news organizations from around the world.**
 
-The lead (and only) developer that worked on this project, contracted a dangerous virus and had to be put in quarantene. For some reason, you can not get hold of her to ask for any support even if you need to. However, you know that her work is usually of good quality, and can be pretty sure of that there is no need to make any big changes or refactorings to the setup or structure of the application itself. You can instead focus on moving forward, and implement the desired.  functionality.
+The lead (and only) developer that worked on this project, contracted a dangerous virus and had to be put in quarantine. For some reason, you can not get hold of her to ask for any support even if you need to. However, you know that her work is usually of good quality and can be pretty sure of that there is no need to make any big changes or refactorings to the setup or structure of the application itself. You can instead focus on moving forward and implement the desired functionality.
 
 ![](./nwn_challenge.png)
 
